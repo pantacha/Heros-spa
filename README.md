@@ -31,8 +31,8 @@ You can check the live version of the project deployed on Netlify at the followi
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/pantacha/Heros-spa.git
+cd Heros-spa
 ```
 ### Step 2: Install the project dependencies:
 
