@@ -1,4 +1,3 @@
-import React from 'react'
 import { HeroList } from '../components/HeroList'
 import { useAppStore } from '../../stores/useAppStore';
 import { HeaderSectionHerosListComponent } from '../components';

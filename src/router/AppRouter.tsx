@@ -1,8 +1,4 @@
-import React from 'react'
-import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
-import { DcPage } from '../heros';
-import { MarvelPage } from '../heros';
-import { Layout } from '../layouts/Layout';
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { LoginPage } from '../auth';
 import { HerosRoutes } from '../heros/routes/HerosRoutes';
 

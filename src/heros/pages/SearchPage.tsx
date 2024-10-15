@@ -1,4 +1,4 @@
-import React, { ChangeEvent, FormEvent, useEffect, useState } from 'react'
+import { ChangeEvent, FormEvent, useEffect, useState } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom';
 import queryString from 'query-string';
 import { SearchItemsForm } from '../../types'

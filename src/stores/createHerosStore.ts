@@ -1,4 +1,4 @@
-import { create, StateCreator } from "zustand";
+import { StateCreator } from "zustand";
 import { Hero, SearchItemsForm } from "../types"
 import { heros } from "../heros/data/heros";
 

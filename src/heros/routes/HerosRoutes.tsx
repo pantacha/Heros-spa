@@ -1,5 +1,4 @@
-import React from 'react'
-import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
+import { Navigate, Route, Routes } from "react-router-dom";
 import { DcPage, HeroPage, MarvelPage, SearchPage } from '../pages';
 import { Layout } from '../../layouts/Layout';
 
